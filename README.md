@@ -1,5 +1,5 @@
-### Hello! 👋
-# ✉️ Discord: thorbn#0700
+# Hello! 👋
+### ✉️ Discord: thorbn#0700
 
 # ⭐Projects
 • Azura
