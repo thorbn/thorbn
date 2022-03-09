@@ -1,7 +1,7 @@
 # Hello! 👋
 ### ✉️ Discord: thorbn#0700
 
-# ⭐Projects
+# ⭐ Projects
 - Azura
 - NoRules Network
 
