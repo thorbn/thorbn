@@ -7,5 +7,7 @@
 
 # 🔍 Languages I'm working with
 - Java
-- NodeJS
 - C#
+
+# 😱 Tools I'm working with
+- NodeJS
