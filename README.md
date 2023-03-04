@@ -8,6 +8,7 @@
 # 🔍 Languages I'm working with
 - Java
 - C#
+- Python
 
 # 😱 Tools I'm working with
 - NodeJS
