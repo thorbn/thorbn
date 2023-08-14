@@ -16,9 +16,7 @@ I'm passionate about coding, reverse engineering, and continuous learning.
 - Python
 - GoLang
 - Java
-- MySQL
 - NodeJS
-- C#
 
 ## Connect with Me 🔗
 
