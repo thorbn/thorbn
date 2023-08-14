@@ -1,14 +1,23 @@
-# Hello! 👋
-### ✉️ Discord: thorbn#0700
+# Hey, I'm Thorben! 👋
 
-# ⭐ Projects
-- Azura
-- NoRules Network
+Welcome to my GitHub profile. I'll release free tools soon :)
 
-# 🔍 Languages I'm working with
-- Java
-- C#
-- Python
+## About Me 🌟
 
-# 😱 Tools I'm working with
-- NodeJS
+I'm passionate about coding, reverse engineering, and continuous learning.
+
+## Projects 🚀
+
+- Azura 
+- NoRules 
+- Avra 
+
+## Connect with Me 🔗
+
+- GitHub: [thorbn](https://github.com/thorbn)
+- YouTube: [thorbn](https://www.youtube.com/c/thorbn)
+- Discord: [thorbn]
+
+## Visitors Count 👀
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thorbn.thorbn)
