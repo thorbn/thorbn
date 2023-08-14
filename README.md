@@ -12,12 +12,6 @@ I'm passionate about coding, reverse engineering, and continuous learning.
 - NoRules 
 - Avra
 
-## Languages and tools I work with 🔭
-- Python
-- GoLang
-- Java
-- NodeJS
-
 ## Connect with Me 🔗
 
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thorbn)
