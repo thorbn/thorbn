@@ -16,7 +16,7 @@ I'm passionate about coding, reverse engineering, and continuous learning.
 
 - GitHub: [thorbn](https://github.com/thorbn)
 - YouTube: [thorbn](https://www.youtube.com/c/thorbn)
-- Discord: [thorbn]
+- Discord: @thorbn (formerly thorbn#0700)
 
 ## Visitors Count 👀
 
